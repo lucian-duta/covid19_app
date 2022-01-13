@@ -14,7 +14,7 @@
 
 `npm install react-bootstrap bootstrap`
 
-# Welcome to the covid-19_app wiki!
+# Welcome to the covid19_app!
 
 As the world has become more reliant on using applications on a day to day basis, the importance of
 reliable API’s has become evident, as they allow businesses to seamlessly interact with 3rd party data with
@@ -36,3 +36,4 @@ For this assignment we have been tasked with creating a REST API prototype for C
 CSV file with full connectivity across the 3 tier architecture. The user will be able to view, add or amend
 the data, as well as being able to search for the first 20 records by date and state, return states where
 the number of cases is more than the users given value, and return the server’s information.
+
